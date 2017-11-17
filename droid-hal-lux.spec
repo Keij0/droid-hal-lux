@@ -8,6 +8,8 @@
 
 %define installable_zip 1
 
+%define enable_kernel_update 1
+
 %define straggler_files \
 /init.mmi.boot.sh\
 /init.mmi.early_boot.sh\
